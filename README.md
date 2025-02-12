@@ -37,7 +37,7 @@ How to Play
 
 Screenshots
 
-![Game Screenshot](Screenshot 2025-02-12 at 5.10.56 PM.png)
+![Game Screenshot](./Screenshot 2025-02-12 at 5.10.56 PM.png)
 
 Project Structure
 
